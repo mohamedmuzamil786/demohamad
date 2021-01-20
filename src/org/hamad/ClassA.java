@@ -9,12 +9,13 @@ public class ClassA {
 		int d=40;
 		System.out.println("Sffffffffffffff");
 		System.out.println("Sffffffffffffff");
-		System.out.println("Sffffffffffffff");
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
 		System.out.println(d);
 		System.out.println("sf");
 		System.out.println("code");
+		System.out.println("Sffffffffffffff");
+		
 	}
 }
