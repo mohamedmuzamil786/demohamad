@@ -8,6 +8,8 @@ public class ClassA {
 		int c=30;
 		int d=40;
 		System.out.println("Sffffffffffffff");
+		System.out.println("Sffffffffffffff");
+		System.out.println("Sffffffffffffff");
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
